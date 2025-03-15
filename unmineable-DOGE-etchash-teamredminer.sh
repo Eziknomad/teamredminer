@@ -1,1 +1,0 @@
-./unmineable-DOGE-etchash-teamredminer.sh -a etchash -o stratum+ssl://etchash.unmineable.com:4444 -u DOGE:DJsuw65sAMmSANQuLuiive7G5K8ezBuFeE.unmineable_worker_khzbciih##zi0i-ucqa  
